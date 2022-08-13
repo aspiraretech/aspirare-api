@@ -7,9 +7,9 @@ var cloudinary = require('cloudinary');
 
 var moment = require('moment');
 cloudinary.config({
-    cloud_name: 'dzerq05zm',
-    api_key: '199453447665147',
-    api_secret: 'BoLRDxRTwA7gYNIJB0seOIeqopU'
+    cloud_name: 'diyrbgmir',
+    api_key: '277219948339392',
+    api_secret: 'TQQUtE7NY-IPwcizU4Djwk5o6F4'
 });
 var FCM = require('fcm-push');
 var serverKey = 'AAAAdvkI0U4:APA91bG7diSbxUWg-WFkyKrWTorqy_kPnhfo1dmzk0wznMNKjRVTg3y5CFCBwlcxW6U1D3tGPJhB17gjsHynke4ZaP5b2Xr99WTwVXY_jNooBhNHb4ImcZ90ejNH6sU36AJQ79eGQ4Nu';

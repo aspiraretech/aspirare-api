@@ -3,9 +3,9 @@ var statusCodes = require('./StatusCodesController.js');
 var database = require('../database_scripts/connection_string.js');
 var cloudinary = require('cloudinary');
 cloudinary.config({
-    cloud_name: 'dzerq05zm',
-    api_key: '199453447665147',
-    api_secret: 'BoLRDxRTwA7gYNIJB0seOIeqopU'
+    cloud_name: 'diyrbgmir',
+    api_key: '277219948339392',
+    api_secret: 'TQQUtE7NY-IPwcizU4Djwk5o6F4'
 });
 
 module.exports = {
