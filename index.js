@@ -72,10 +72,10 @@ app.use('/secure', authenticatedRoutes);
 //environment variables
 var port = process.env.PORT || 5000;
 process.env.SECRET_KEY = "findinbox";
-process.env.STUDENT_APP_VERSION = "1.0.0";
+process.env.STUDENT_APP_VERSION = "0.0.3";
 process.env.FACULTY_APP_VERSION = "1.0.0";
 process.env.ADMIN_APP_VERSION = "1.0.0";
-process.env.AND_STUDENT_APP_VERSION = "1.0.0";
+process.env.AND_STUDENT_APP_VERSION = "0.0.3";
 process.env.AND_FACULTY_APP_VERSION = "1.0.0";
 process.env.AND_ADMIN_APP_VERSION = "1.0.0";
 
